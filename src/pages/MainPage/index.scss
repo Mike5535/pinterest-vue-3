@@ -1,0 +1,8 @@
+.main-page {
+  display: flex;
+  flex-wrap: wrap;
+
+  &__image {
+    height: 35rem;
+  }
+}
